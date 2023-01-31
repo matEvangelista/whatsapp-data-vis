@@ -32,3 +32,4 @@ Nota-se que o grupo ficou mais ativo durante a apuração das eleições.
 
 ## 2.5 - Word cloud do chat
 <img src="imgs/wordc.png">
+Não repare na qualidade da conversa, mas sim na ideia geral do projeto.

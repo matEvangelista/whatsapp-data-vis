@@ -36,7 +36,7 @@ Não repare na qualidade da conversa, mas sim na ideia geral do projeto.
 
 ## 2.6 - Histograma do número de mensagens por palavra
 <img src="imgs/hist.png">
-Para fazer este gráfico, eliminei o que julguei que seriam copypastas. Pela minha experiência neste grupo em específico, selecionei apenas as mensagens com menos de 50 palavras. Outros métodos podem ser aplicados, porém não aind conheço nenhum.
+Para fazer este gráfico, eliminei o que julguei que seriam copypastas. Pela minha experiência neste grupo em específico, selecionei apenas as mensagens com menos de 50 palavras. Outros métodos podem ser aplicados, porém ainda são de meu conhecimento.
 
 ## 2.7 - Bar plot do número de palavras médio por mensagem de cada membro
 <img src="imgs/media.png">

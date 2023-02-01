@@ -28,7 +28,7 @@ Nota-se que o grupo ficou mais ativo durante a apuração das eleições.
 <img src="imgs/radarchart.png">
 
 ## 2.4 - Sunburst chart de mensagens por hora do dia
-<img src="imgs/sunburst.png">
+<img src="imgs/sun.png">
 
 ## 2.5 - Word cloud do chat
 <img src="imgs/wordc.png">
